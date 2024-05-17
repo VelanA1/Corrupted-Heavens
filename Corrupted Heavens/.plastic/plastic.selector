@@ -1,0 +1,4 @@
+repository "Corrupted Heavens@watermelonDog87@cloud"
+  path "/"
+    br "/main"
+    co "/main"

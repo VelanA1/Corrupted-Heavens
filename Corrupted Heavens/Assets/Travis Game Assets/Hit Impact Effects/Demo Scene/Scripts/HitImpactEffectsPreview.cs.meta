@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6c3a9dc0c96663c43b89916d34c8b8ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorCollider: {instanceID: 0}
+  - particlesPool: {fileID: 6606993228092671930, guid: f59ec5dbc5b7eaf49affe2305e3f0f56, type: 3}
+  - hitNameLabel: {instanceID: 0}
+  - hitIndexLabel: {instanceID: 0}
+  - cameraPivot: {fileID: 6230536538835720445, guid: f8550008547656c4ab2d399a6cd0b5d1, type: 3}
+  - floor: {instanceID: 0}
+  - rotationIcon: {instanceID: 0}
+  - floorIcon: {instanceID: 0}
+  - slowMotionIcon: {instanceID: 0}
+  - light: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
